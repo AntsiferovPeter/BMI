@@ -3,6 +3,13 @@
 </div>
 
 ___
+<div id="setup_info" align="center">
+    <img src="https://github.com/AntsiferovPeter/BMI/blob/main/Images/Attention.png" width=55 height=50 alt=""/>
+    <p>RU: Для установки программы необходимо выбрать корневую директорию диска, то есть основной каталог самого диска, именно там следует разместить все файлы и папки программы.</p>
+    <p>EN: To install the program, you need to select the root directory of the disk, which is the main directory of the disk itself. That's where you should place all the files and folders of the program.</p>
+</div>
+
+___
 <div id="description">
     <h2 align="center">Индекс массы тела (ИМТ)<br>The Body Mass Index (BMI)</h2>
     <h3>Краткое описание / Short Description:</h3>
