@@ -88,6 +88,7 @@ ___
     <p>RU: После нажатия на кнопку "Добавить пользователя", откроется окно с полями для заполнения персональных данных.</p>
     <p>EN: After clicking on the "Add User" button, a window will open with fields to fill in personal information.</p>
     <img src="https://github.com/AntsiferovPeter/BMI/blob/main/Images/Select_User.png" align="center" alt=""/>
+    <br><br>
     <img src="https://github.com/AntsiferovPeter/BMI/blob/main/Images/Delete_User.png" align="center" alt=""/>
     <p>RU: После выбора пользователя откроется доступ ко всем имеющимся вкладкам программы и появится возможность удалить текущего пользователя.</p>
     <p>EN: After selecting a user, access to all available tabs will be granted, and you will have the option to delete the current user.</p>
@@ -113,6 +114,7 @@ ___
     <p>RU: Вкладка "Информация" содержит краткое описание возможных результатов</p>
     <p>EN: The "Information" tab provides a brief description of potential outcomes.</p>
     <img src="https://github.com/AntsiferovPeter/BMI/blob/main/Images/Settings.png" align="center" alt=""/>
+    <br><br>
     <img src="https://github.com/AntsiferovPeter/BMI/blob/main/Images/Light.png" align="center" alt=""/>
     <p>RU: Вкладка "Настройки" содержит два выпадающих меню для выбора цветовой схемы программы и языка (в версии 1.0 выбор языка недоступен).</p>
     <p>EN: The "Settings" tab includes two dropdown menus for selecting the color scheme of the program and the language (language selection is not available in version 1.0).</p>
